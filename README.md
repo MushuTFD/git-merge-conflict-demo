@@ -58,3 +58,5 @@ code .          # opens Visual Studio Code against the present directory
 # Ok hi, i am richie
 
 hiahahahaha
+
+hihihi
