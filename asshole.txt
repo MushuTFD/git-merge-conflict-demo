@@ -1,3 +1,9 @@
 asshole
+<<<<<<< HEAD
 
 DOUCHE BAG
+=======
+ hdafhosdofhofhs
+
+ heoiwoigvio
+>>>>>>> ff8e56f3a6ad82c6879700c143102d09ef7bfa81
