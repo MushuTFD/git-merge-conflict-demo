@@ -1,9 +1,11 @@
 # Setup
+
 System Package Managers: apt-get, snap, yum, apt, homebrew, chocolately
 Python Package Managers: pip, conda
 
 ## Ubuntu (WSL)
-``` sh
+
+```sh
 ## Install Python
 # sudo apt list                       # show all installed packages
 # sudo apt update                     # updates the list of available packages for install (often needed on first boot, or after sometime)
@@ -16,7 +18,8 @@ pip install flask
 ```
 
 ## MacOS
-``` sh
+
+```sh
 ## Install Python
 # brew list                         # show all installed packages
 brew install python@3.11
@@ -26,7 +29,8 @@ pip install flask
 ```
 
 # Example Usage
-``` sh
+
+```sh
 # Run Example Python
 python basic.py
 
@@ -43,16 +47,12 @@ unset PORT                          # removes env variable
 ```
 
 # Additional Useful Commands
-``` sh
+
+```sh
 pwd             # shows present working directory
 cd ~            # change to user directory `/home/{username}`
 cd ..           # change to parent directory (i.e. 1 level up)
 code .          # opens Visual Studio Code against the present directory
 ```
 
-# Added some new line here just for fun
-``` sh
-
-blah blah
-
-```
+# Ok hi, i am richie
